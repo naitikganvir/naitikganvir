@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @naitikganvir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Engineer by Choice Entrepreneur by Chance 
 
-<!---
-naitikganvir/naitikganvir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Ambitious Developer Specialist, Skilled in Webdevelopment, App Development as well as Graphic designs
+ Committed to maintaining the innovative technical skills & Up-to-Date industry knowledge. 
+ Administrator Motivated to drives projects from start to finish as part of dynamic team
+
+ Specialist in JAVA + DSA, Webdevelopment, App Development & Graphic Designs
